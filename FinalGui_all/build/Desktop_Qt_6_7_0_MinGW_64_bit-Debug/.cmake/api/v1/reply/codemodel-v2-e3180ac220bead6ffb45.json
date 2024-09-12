@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-08520e21ae628d278384.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FinalGui_all",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-4d6abf0e2b99a441b947.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-b7749032b147f21c930f.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-f0ab4c93e1af5835477d.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-0f9ff45eba99e2295eee.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFinalGui_all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFinalGui_all-Debug-4c4e77fa97eaa8399786.json",
+					"name" : "appFinalGui_all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFinalGui_all_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFinalGui_all_autogen-Debug-0aa480dfe6d040345b6e.json",
+					"name" : "appFinalGui_all_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFinalGui_all_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFinalGui_all_autogen_timestamp_deps-Debug-730fc511e0bbf6153a1a.json",
+					"name" : "appFinalGui_all_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFinalGui_all_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFinalGui_all_qmlimportscan-Debug-0fdd24263b7da3828a44.json",
+					"name" : "appFinalGui_all_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFinalGui_all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFinalGui_all_qmllint-Debug-707e5f18193a2167c6a8.json",
+					"name" : "appFinalGui_all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFinalGui_all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFinalGui_all_qmllint_json-Debug-c6c13a6518bfce320f39.json",
+					"name" : "appFinalGui_all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFinalGui_all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFinalGui_all_qmllint_module-Debug-3e7b5a627a5b6039b1f4.json",
+					"name" : "appFinalGui_all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFinalGui_all_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFinalGui_all_qmltyperegistration-Debug-5ed56d3b4c17df535cb5.json",
+					"name" : "appFinalGui_all_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFinalGui_all_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFinalGui_all_tooling-Debug-d9d17d17d8385edd9358.json",
+					"name" : "appFinalGui_all_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "D:/QT projects/FinalGui_all"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

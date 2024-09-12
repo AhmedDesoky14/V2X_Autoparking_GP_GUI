@@ -1,0 +1,20 @@
+module FinalGui_all
+typeinfo appFinalGui_all.qmltypes
+prefer :/FinalGui_all/
+Main 1.0 Main.qml
+GarageIntriorMap 1.0 GarageIntriorMap.qml
+DateTime 1.0 DateTime.qml
+GarageSlotsList 1.0 GarageSlotsList.qml
+MapToGarage 1.0 MapToGarage.qml
+OnSlotParking 1.0 OnSlotParking.qml
+VideoScreen 1.0 VideoScreen.qml
+Applications 1.0 Applications.qml
+CustomSliderThreeLevels 1.0 CustomSliderThreeLevels.qml
+CustomSliderTwoLevels 1.0 CustomSliderTwoLevels.qml
+FullCircleGauge 1.0 FullCircleGauge.qml
+GaugeScreen 1.0 GaugeScreen.qml
+HomeScreen 1.0 HomeScreen.qml
+SettingsScreen 1.0 SettingsScreen.qml
+AppState 1.0 AppState.qml
+MusicPlayer 1.0 MusicPlayer.qml
+

@@ -1,0 +1,232 @@
+# ninja log v5
+22	55	7416325588438911	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/Main.qml	54864b3290abdfad
+546	584	7410321510604365	FinalGui_all/assets/spotify.png	b91fdea250dac86b
+22	55	7416325588438911	FinalGui_all/Main.qml	54864b3290abdfad
+975	1096	7411412067958197	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/appFinalGui_all.qmltypes	9781fe8b45c92387
+975	1096	7411412067958197	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/appfinalgui_all_qmltyperegistrations.cpp	9781fe8b45c92387
+13	174	7416326751249810	.qt_plugins/Qt6_QmlPlugins_Imports_appFinalGui_all.cmake	4420235807e6a79d
+865	2667	7414152984479517	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_Applications_qml.cpp.obj	bed1c244d36f2744
+14	41	7410241757055569	FinalGui_all/DateTime.qml	efd263a1b2b4f54d
+20	74	7416268768310906	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/GarageSlotsList.qml	9d39ac831c97d026
+13	174	7416326751249810	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appFinalGui_all.cmake	4420235807e6a79d
+198	2949	7416326764044531	build.ninja	cb32357fbb2f6f6
+14	43	7416295489425694	FinalGui_all/GarageIntriorMap.qml	6f48c99cfb2a887
+339	399	7416325591235238	meta_types/qt6appfinalgui_all_debug_metatypes.json.gen	7d909042c60e878b
+944	4317	7416268810738198	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_SettingsScreen_qml.cpp.obj	47d78d87e974202e
+339	399	7416325591235238	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/qt6appfinalgui_all_debug_metatypes.json	7d909042c60e878b
+14	43	7416295489425694	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/GarageIntriorMap.qml	6f48c99cfb2a887
+62	209	7416325590005725	appFinalGui_all_autogen/timestamp	eee7e8fe8d39c074
+808	3053	7416295519432110	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_GarageIntriorMap_qml.cpp.obj	8ac99e1dd6ca4c94
+62	209	7416325590005725	appFinalGui_all_autogen/mocs_compilation.cpp	eee7e8fe8d39c074
+62	209	7416325590005725	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/appFinalGui_all_autogen/timestamp	eee7e8fe8d39c074
+20	74	7416268768310906	FinalGui_all/GarageSlotsList.qml	9d39ac831c97d026
+496	579	7410321510114232	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/chrome.png	69aef2cd230d9bc0
+339	399	7416325591235238	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/qt6appfinalgui_all_debug_metatypes.json.gen	7d909042c60e878b
+62	209	7416325590005725	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/appFinalGui_all_autogen/mocs_compilation.cpp	eee7e8fe8d39c074
+25	60	7410509215183540	FinalGui_all/assets/speedometer.png	38dab050c78db35c
+936	3671	7416268804285367	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_GarageSlotsList_qml.cpp.obj	d1628f36fa02bef
+241	337	7413735021265504	.rcc/qrc_qmake_FinalGui_all.cpp	1a8b626ebae01196
+241	337	7413735021265504	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_qmake_FinalGui_all.cpp	1a8b626ebae01196
+229	936	7416325597225478	.rcc/qrc_appFinalGui_all_raw_qml_0.cpp	eedd64639c4f024e
+339	399	7416325591235238	meta_types/qt6appfinalgui_all_debug_metatypes.json	7d909042c60e878b
+229	936	7416325597225478	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_appFinalGui_all_raw_qml_0.cpp	eedd64639c4f024e
+235	339	7416325591235238	meta_types/appFinalGui_all_json_file_list.txt	6281d90da9da07dd
+235	339	7416325591235238	meta_types/appFinalGui_all_json_file_list.txt.timestamp	6281d90da9da07dd
+235	339	7416325591235238	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/appFinalGui_all_json_file_list.txt	6281d90da9da07dd
+235	339	7416325591235238	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/appFinalGui_all_json_file_list.txt.timestamp	6281d90da9da07dd
+247	567	7413735021487274	.rcc/qmlcache/appFinalGui_all_qmlcache_loader.cpp	c81a35f79762ac43
+247	567	7413735021487274	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_qmlcache_loader.cpp	c81a35f79762ac43
+228	486	7410321507485140	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/ABS_off.png	1c0605ca842a0e66
+336	604	7416268773528575	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_GarageSlotsList_qml.cpp	8ac9f3a5b4365e01
+975	1096	7411412067958197	appfinalgui_all_qmltyperegistrations.cpp	9781fe8b45c92387
+975	1096	7411412067958197	FinalGui_all/appFinalGui_all.qmltypes	9781fe8b45c92387
+936	2592	7416325613724223	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_Main_qml.cpp.obj	21d6075765248381
+399	746	7416325595111058	.rcc/qmlcache/appFinalGui_all_Main_qml.cpp	1db694f7da1c1822
+304	459	7416295493430537	.rcc/qmlcache/appFinalGui_all_GarageIntriorMap_qml.cpp	46766aaf2e11cd4c
+28	62	7416325588533365	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/OnSlotParking.qml	69948f98689d351d
+399	746	7416325595111058	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_Main_qml.cpp	1db694f7da1c1822
+19	122	7412890791993541	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/background.jpg	9c45aa5bae8c9a7b
+131	196	7410312035445604	FinalGui_all/assets/reverseCameraGridlines.png	b1fb4e5510096a44
+300	484	7415875971526515	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_FullCircleGauge_qml.cpp	58823ca6ec84e1ce
+304	459	7416295493430537	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_GarageIntriorMap_qml.cpp	46766aaf2e11cd4c
+2665	7089	7411412128088206	CMakeFiles/appFinalGui_all.dir/appFinalGui_all_autogen/mocs_compilation.cpp.obj	cd47516490f616e2
+1075	1615	7413735032497303	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_qmake_FinalGui_all.cpp.obj	e59e7e09c0373e38
+942	19437	7416325782112049	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_appFinalGui_all_raw_qml_0.cpp.obj	b5c94b0d0840d300
+53	112	7416196856936283	FinalGui_all/CustomSliderTwoLevels.qml	1da679acf5651188
+2678	6732	7411412124511504	CMakeFiles/appFinalGui_all.dir/appfinalgui_all_qmltyperegistrations.cpp.obj	c3085bd12faf95cc
+10	37	7416308716033110	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/MapToGarage.qml	e35d2ef531a8541a
+508	580	7410321510195746	FinalGui_all/assets/play-button.png	1d527187cab38138
+2668	7090	7411412128198645	CMakeFiles/appFinalGui_all.dir/main.cpp.obj	ca3e42defef5d15
+43	120	7412890791972548	FinalGui_all/assets/rain.png	9881a30db3740bee
+1071	4652	7413735064621911	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_qmlcache_loader.cpp.obj	fde95c0ece4efedb
+290	546	7410321508025686	FinalGui_all/assets/oil_off.png	b8849890cc913a4
+28	62	7416325588533365	FinalGui_all/OnSlotParking.qml	69948f98689d351d
+19438	23753	7416325825304201	appFinalGui_all.exe	5fe060ba536935d4
+14	41	7410241757055569	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/DateTime.qml	efd263a1b2b4f54d
+402	726	7413735024645290	.rcc/qmlcache/appFinalGui_all_DateTime_qml.cpp	98817daae38a7478
+402	726	7413735024645290	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_DateTime_qml.cpp	98817daae38a7478
+1068	4261	7413735060697940	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_DateTime_qml.cpp.obj	95a61665008dec63
+336	604	7416268773528575	.rcc/qmlcache/appFinalGui_all_GarageSlotsList_qml.cpp	8ac9f3a5b4365e01
+201	449	7410321507180527	FinalGui_all/assets/Left_arrow_On.png	1b34e9e61325e947
+10	37	7416308716033110	FinalGui_all/MapToGarage.qml	e35d2ef531a8541a
+131	196	7410312035445604	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/reverseCameraGridlines.png	b1fb4e5510096a44
+526	580	7410321510376468	FinalGui_all/assets/car.jpg	360c26f9c7c11249
+230	371	7416308719240634	.rcc/qmlcache/appFinalGui_all_MapToGarage_qml.cpp	ec54540703902712
+230	371	7416308719240634	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_MapToGarage_qml.cpp	ec54540703902712
+598	2684	7416308742330635	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_MapToGarage_qml.cpp.obj	42f7174bccb8e3e2
+120	199	7410312035400457	FinalGui_all/assets/newpic.jpg	2e4218d2e2c42779
+41	84	7413729353303901	FinalGui_all/assets/tempBG-modified.png	3e1f475ec974b080
+120	199	7410312035400457	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/newpic.jpg	2e4218d2e2c42779
+140	203	7410312035533667	FinalGui_all/assets/CarTopViewRound1.png	8b5f2fe8d58ce821
+397	576	7410321509085395	FinalGui_all/assets/lane_off.png	9bece9ff2044b725
+140	203	7410312035533667	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/CarTopViewRound1.png	8b5f2fe8d58ce821
+149	206	7410312035580649	FinalGui_all/assets/CarTopView.jpg	1d929cc1d49fe441
+370	576	7410321508828324	FinalGui_all/assets/logo.png	a3fbeb56644b47a
+149	206	7410312035580649	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/CarTopView.jpg	1d929cc1d49fe441
+23	64	7413748080862014	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/MusicPlayer.qml	d2106d8ae52bb0f2
+405	665	7416325594433298	.rcc/qmlcache/appFinalGui_all_OnSlotParking_qml.cpp	cd573a577a382346
+346	575	7410321508589704	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/engine_off.png	3478de613a5e545c
+405	665	7416325594433298	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_OnSlotParking_qml.cpp	cd573a577a382346
+939	4606	7416325633772579	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_OnSlotParking_qml.cpp.obj	8175484100da2fff
+15	45	7414152958271535	FinalGui_all/Applications.qml	209ad1bd125aba0a
+15	45	7414152958271535	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/Applications.qml	209ad1bd125aba0a
+14	47	7415876893536144	FinalGui_all/VideoScreen.qml	ea8fbda116e057cb
+14	47	7415876893536144	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/VideoScreen.qml	ea8fbda116e057cb
+15	45	7415875967936817	FinalGui_all/FullCircleGauge.qml	50aea928585b0d20
+15	45	7415875967936817	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/FullCircleGauge.qml	50aea928585b0d20
+53	112	7416196856936283	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/CustomSliderTwoLevels.qml	1da679acf5651188
+536	581	7410321510486899	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/netflix.png	6601f5e0aa6cdc50
+14	50	7416260249987462	FinalGui_all/GaugeScreen.qml	a3dd976cc028c127
+14	50	7416260249987462	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/GaugeScreen.qml	a3dd976cc028c127
+16	51	7416198352112386	FinalGui_all/HomeScreen.qml	55e726e0f94c12de
+16	51	7416198352112386	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/HomeScreen.qml	55e726e0f94c12de
+31	82	7416268768434305	FinalGui_all/SettingsScreen.qml	46a4ee33354a356e
+477	579	7410321509873212	FinalGui_all/assets/next-button.png	f42bfc289df038c6
+31	82	7416268768434305	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/SettingsScreen.qml	46a4ee33354a356e
+437	577	7410321509643467	FinalGui_all/assets/car3.png	48f7a776e97777d9
+155	408	7410321507004152	FinalGui_all/CustomSliderThreeLevels.qml	d6f391e347d03bd2
+155	408	7410321507004152	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/CustomSliderThreeLevels.qml	d6f391e347d03bd2
+173	422	7410321507081851	FinalGui_all/assets/Right_signal_Off.png	515fa6b9b3c0676e
+173	422	7410321507081851	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/Right_signal_Off.png	515fa6b9b3c0676e
+271	526	7410321507832542	FinalGui_all/assets/Left_Signal_Off.png	dd07955367686023
+188	436	7410321507118916	FinalGui_all/assets/Right_arrow_On.png	6ff7ed6227a063cf
+188	436	7410321507118916	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/Right_arrow_On.png	6ff7ed6227a063cf
+201	449	7410321507180527	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/Left_arrow_On.png	1b34e9e61325e947
+209	462	7410321507314195	FinalGui_all/assets/turn-signal_On.png	d1f3414a0999cb11
+209	462	7410321507314195	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/turn-signal_On.png	d1f3414a0999cb11
+219	477	7410321507368794	FinalGui_all/assets/cruise_off.png	fe02dfaf8f5dca77
+219	477	7410321507368794	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/cruise_off.png	fe02dfaf8f5dca77
+345	620	7416198357013347	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_HomeScreen_qml.cpp	829c527951cb0ae8
+228	486	7410321507485140	FinalGui_all/assets/ABS_off.png	1c0605ca842a0e66
+238	496	7410321507579393	FinalGui_all/assets/ABS_on.png	203c79885b6091cc
+238	496	7410321507579393	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/ABS_on.png	203c79885b6091cc
+253	507	7410321507638000	FinalGui_all/assets/battery_off.png	e7904fee1bfc5888
+809	2414	7415876917168948	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_VideoScreen_qml.cpp.obj	989444fcf5c913cf
+253	507	7410321507638000	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/battery_off.png	e7904fee1bfc5888
+261	518	7410321507747176	FinalGui_all/assets/battery_on.png	f8bbc06dc2ba3ec7
+261	518	7410321507747176	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/battery_on.png	f8bbc06dc2ba3ec7
+271	526	7410321507832542	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/Left_Signal_Off.png	dd07955367686023
+280	536	7410321507910749	FinalGui_all/assets/Turn-signal_Off.png	6ecaf37a015fd69f
+280	536	7410321507910749	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/Turn-signal_Off.png	6ecaf37a015fd69f
+290	546	7410321508025686	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/oil_off.png	b8849890cc913a4
+556	591	7410321510679898	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/download.svg	344e2c7ed32a5526
+303	555	7410321508181561	FinalGui_all/assets/engine_on.png	a91b4494cafa3696
+303	555	7410321508181561	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/engine_on.png	a91b4494cafa3696
+329	446	7413748084610052	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_MusicPlayer_qml.cpp	cf136815170d67f5
+338	731	7416260256073932	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_GaugeScreen_qml.cpp	5f7c92aa14689d17
+313	566	7410321508278387	FinalGui_all/assets/oil_on.png	53910bde748db37a
+313	566	7410321508278387	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/oil_on.png	53910bde748db37a
+325	574	7410321508365722	FinalGui_all/assets/applications.png	d7557839af1d28b
+325	574	7410321508365722	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/applications.png	d7557839af1d28b
+462	578	7410321509791705	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/youtube.png	ccebd08985cd9256
+382	576	7410321508957957	FinalGui_all/assets/lane_on.png	5cafdad45a99d1c7
+335	575	7410321508483164	FinalGui_all/assets/parking.png	ce133f5a26b3527e
+24	120	7412890791941544	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/thunderstorm.png	5b9ac090fec4bcc6
+335	575	7410321508483164	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/parking.png	ce133f5a26b3527e
+346	575	7410321508589704	FinalGui_all/assets/engine_off.png	3478de613a5e545c
+356	575	7410321508696893	FinalGui_all/assets/settings.png	5dda7a21c4ef7e29
+356	575	7410321508696893	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/settings.png	5dda7a21c4ef7e29
+370	576	7410321508828324	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/logo.png	a3fbeb56644b47a
+382	576	7410321508957957	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/lane_on.png	5cafdad45a99d1c7
+397	576	7410321509085395	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/lane_off.png	9bece9ff2044b725
+35	81	7413729353276498	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/musicBG-modified.png	bbbdcb5d99024f36
+409	577	7410321509236543	FinalGui_all/assets/cruise_on.png	3f18b49eeddeccea
+409	577	7410321509236543	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/cruise_on.png	3f18b49eeddeccea
+422	577	7410321509371032	FinalGui_all/assets/music-note.png	6987fe37d0a2099f
+422	577	7410321509371032	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/music-note.png	6987fe37d0a2099f
+536	581	7410321510486899	FinalGui_all/assets/netflix.png	6601f5e0aa6cdc50
+437	577	7410321509643467	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/car3.png	48f7a776e97777d9
+449	578	7410321509643467	FinalGui_all/assets/previous.png	7e7ae7326c1fd75b
+23	64	7413748080862014	FinalGui_all/MusicPlayer.qml	d2106d8ae52bb0f2
+449	578	7410321509643467	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/previous.png	7e7ae7326c1fd75b
+462	578	7410321509791705	FinalGui_all/assets/youtube.png	ccebd08985cd9256
+477	579	7410321509873212	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/next-button.png	f42bfc289df038c6
+526	580	7410321510376468	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/car.jpg	360c26f9c7c11249
+487	579	7410321509980738	FinalGui_all/assets/compass.png	cafa598b76f14ca5
+487	579	7410321509980738	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/compass.png	cafa598b76f14ca5
+496	579	7410321510114232	FinalGui_all/assets/chrome.png	69aef2cd230d9bc0
+508	580	7410321510195746	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/play-button.png	1d527187cab38138
+518	580	7410321510279255	FinalGui_all/assets/pause.png	eba6de602f1d1918
+518	580	7410321510279255	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/pause.png	eba6de602f1d1918
+546	584	7410321510604365	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/spotify.png	b91fdea250dac86b
+556	591	7410321510679898	FinalGui_all/assets/download.svg	344e2c7ed32a5526
+567	598	7410321510760775	FinalGui_all/assets/home.png	4b2ac0bc79d811f1
+567	598	7410321510760775	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/home.png	4b2ac0bc79d811f1
+297	411	7415876897059689	.rcc/qmlcache/appFinalGui_all_VideoScreen_qml.cpp	1ad3c1bf372aecb4
+297	411	7415876897059689	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_VideoScreen_qml.cpp	1ad3c1bf372aecb4
+304	489	7414152961941876	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_Applications_qml.cpp	7b2a1a41c9837716
+300	484	7415875971526515	.rcc/qmlcache/appFinalGui_all_FullCircleGauge_qml.cpp	58823ca6ec84e1ce
+338	731	7416260256073932	.rcc/qmlcache/appFinalGui_all_GaugeScreen_qml.cpp	5f7c92aa14689d17
+541	808	7413735026145680	.rcc/qmlcache/appFinalGui_all_CustomSliderThreeLevels_qml.cpp	a0ab4532f1ac2b71
+541	808	7413735026145680	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_CustomSliderThreeLevels_qml.cpp	a0ab4532f1ac2b71
+405	648	7416196861629978	.rcc/qmlcache/appFinalGui_all_CustomSliderTwoLevels_qml.cpp	8800efcf68d21412
+405	648	7416196861629978	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_CustomSliderTwoLevels_qml.cpp	8800efcf68d21412
+304	489	7414152961941876	.rcc/qmlcache/appFinalGui_all_Applications_qml.cpp	7b2a1a41c9837716
+354	646	7416268773916937	.rcc/qmlcache/appFinalGui_all_SettingsScreen_qml.cpp	e8e1fa20fa278155
+354	646	7416268773916937	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_SettingsScreen_qml.cpp	e8e1fa20fa278155
+345	620	7416198357013347	.rcc/qmlcache/appFinalGui_all_HomeScreen_qml.cpp	829c527951cb0ae8
+806	2489	7415875992366764	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_FullCircleGauge_qml.cpp.obj	3bbd9c87a67e4988
+1064	3242	7416196888182042	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_CustomSliderTwoLevels_qml.cpp.obj	371cf3f725c9d159
+1217	4487	7413735062996205	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_CustomSliderThreeLevels_qml.cpp.obj	58c3e0415c24d46e
+828	6833	7416260317748687	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_GaugeScreen_qml.cpp.obj	38018bcae7972f08
+994	4369	7416198395199675	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_HomeScreen_qml.cpp.obj	daa6f87e2e593d19
+25	60	7410509215183540	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/speedometer.png	38dab050c78db35c
+2672	7129	7411412128826316	CMakeFiles/appFinalGui_all.dir/filereading.cpp.obj	b2dfd72b2a25f656
+24	120	7412890791941544	FinalGui_all/assets/thunderstorm.png	5b9ac090fec4bcc6
+43	120	7412890791972548	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/rain.png	9881a30db3740bee
+49	121	7412890791972548	FinalGui_all/assets/cloudy.png	2adf8280feb3b6f3
+49	121	7412890791972548	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/cloudy.png	2adf8280feb3b6f3
+34	121	7412890791972548	FinalGui_all/assets/sunny.png	497f09c723d9c42f
+34	121	7412890791972548	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/sunny.png	497f09c723d9c42f
+19	122	7412890791993541	FinalGui_all/assets/background.jpg	9c45aa5bae8c9a7b
+15	46	7413146682948744	FinalGui_all/AppState.qml	9c2844fdc6d7da5e
+15	46	7413146682948744	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/AppState.qml	9c2844fdc6d7da5e
+435	725	7413735024925988	.rcc/qmlcache/appFinalGui_all_AppState_qml.cpp	617752d7a555805f
+435	725	7413735024925988	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_AppState_qml.cpp	617752d7a555805f
+1227	4339	7413735061526865	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_AppState_qml.cpp.obj	7700db357ff4db52
+329	446	7413748084610052	.rcc/qmlcache/appFinalGui_all_MusicPlayer_qml.cpp	cf136815170d67f5
+35	81	7413729353276498	FinalGui_all/assets/musicBG-modified.png	bbbdcb5d99024f36
+41	84	7413729353303901	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/assets/tempBG-modified.png	3e1f475ec974b080
+816	2550	7413748105697195	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_MusicPlayer_qml.cpp.obj	bb7182c972ffba81
+174	1589	7416326764044531	build.ninja	cb32357fbb2f6f6
+15	95	7416326766727750	FinalGui_all/Main.qml	54864b3290abdfad
+15	95	7416326766727750	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/FinalGui_all/Main.qml	54864b3290abdfad
+95	224	7416326768060279	appFinalGui_all_autogen/timestamp	eee7e8fe8d39c074
+95	224	7416326768060279	appFinalGui_all_autogen/mocs_compilation.cpp	eee7e8fe8d39c074
+95	224	7416326768060279	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/appFinalGui_all_autogen/timestamp	eee7e8fe8d39c074
+95	224	7416326768060279	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/appFinalGui_all_autogen/mocs_compilation.cpp	eee7e8fe8d39c074
+249	288	7416326768641750	meta_types/appFinalGui_all_json_file_list.txt	6281d90da9da07dd
+249	288	7416326768641750	meta_types/appFinalGui_all_json_file_list.txt.timestamp	6281d90da9da07dd
+249	288	7416326768641750	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/appFinalGui_all_json_file_list.txt	6281d90da9da07dd
+249	288	7416326768641750	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/appFinalGui_all_json_file_list.txt.timestamp	6281d90da9da07dd
+288	379	7416326768641750	meta_types/qt6appfinalgui_all_debug_metatypes.json.gen	7d909042c60e878b
+288	379	7416326768641750	meta_types/qt6appfinalgui_all_debug_metatypes.json	7d909042c60e878b
+288	379	7416326768641750	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/qt6appfinalgui_all_debug_metatypes.json.gen	7d909042c60e878b
+288	379	7416326768641750	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/qt6appfinalgui_all_debug_metatypes.json	7d909042c60e878b
+379	732	7416326772846901	.rcc/qmlcache/appFinalGui_all_Main_qml.cpp	1db694f7da1c1822
+379	732	7416326772846901	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_Main_qml.cpp	1db694f7da1c1822
+243	837	7416326774047802	.rcc/qrc_appFinalGui_all_raw_qml_0.cpp	eedd64639c4f024e
+243	837	7416326774047802	D:/QT projects/FinalGui_all/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_appFinalGui_all_raw_qml_0.cpp	eedd64639c4f024e
+837	2511	7416326790879724	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appFinalGui_all_Main_qml.cpp.obj	21d6075765248381
+840	18886	7416326954545247	CMakeFiles/appFinalGui_all.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_appFinalGui_all_raw_qml_0.cpp.obj	b5c94b0d0840d300
+18886	23129	7416326996933223	appFinalGui_all.exe	5fe060ba536935d4
