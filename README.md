@@ -3,8 +3,11 @@ This repository contains the source code for the Dashboard GUI sub-project, part
 The dashboard provides a user-friendly interface to monitor and control the vehicle during navigation and autoparking and display security alerts.
 
 Authors
+
 Ziad Emad
+
 Email: ziademadh7@gmail.com
 
 Esraa Fawzy
+
 Email: ef44529@gmail.com
